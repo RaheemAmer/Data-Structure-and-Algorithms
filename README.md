@@ -31,3 +31,4 @@ Mostly friday finish a topic and write a summray about it and later on write a b
 ### Most Important Problems:
 -  [Leetcode 75 Questions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
 -  [Neetcode Questions](https://neetcode.io/)
+-  [Important Video](https://www.youtube.com/watch?v=SVvr3ZjtjI8)
