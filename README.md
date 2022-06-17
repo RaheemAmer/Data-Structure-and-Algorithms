@@ -1,7 +1,7 @@
 # Data-Structure-and-Algorithms
 I'll schedule a day and in this day I'll learn data structure and algorithms
 
-Mostly friday finish a topic and write a summray about it and later on write a blog article to finalize eveyrthing I've learned about it 
+Mostly friday finish a topic and write a summary about it and later on write a blog article to finalize everything I've learned about it 
 
 ### Repos to study from:
 -  [Data-Structures-and-Algorithms-Training](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Training/blob/main/README.md)
